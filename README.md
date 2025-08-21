@@ -29,8 +29,11 @@ A aba **`Contratos`** deve conter as seguintes colunas:
 | 11 | Notificação de Fim de Contrato Enviada (Sim/Não) |
 | 12 | Notificação de Fim de Prorrogação Enviada (Sim/Não) |
 
+
 Link da Planilha Modelo:
+
 https://docs.google.com/spreadsheets/d/1PFzXcfpgAxBnJuuoBOcCSd-h6CJiv1vZcWNiCTklPWw/edit?usp=sharing
+
 !!! Não utilizar como planilha principal, qualquer pessoa está autorizada a editar !!!
 
 ## 🚀 Como Usar  
